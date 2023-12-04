@@ -1,6 +1,6 @@
 # memo
 
-A new Flutter project.
+간단하게 Memo 앱을 만들어보려한다.
 
 ## Getting Started
 
